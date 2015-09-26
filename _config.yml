@@ -1,0 +1,24 @@
+# Site settings
+title: Wise Hoot
+email: support@wisehoot.co
+url: http://wisehoot.co
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#263552'
+  links: '#219ab3'
+
+#Aleternate colors: #6C778D #434E6A #263552
+
+# Footer settings
+footer: Wise Hoot
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/wise_hoot
+
+# Build settings
+markdown: kramdown
+permalink: pretty
